@@ -45,7 +45,7 @@ Este proyecto utiliza las siguientes bibliotecas de Python:
 pip install pandas matplotlib seaborn folium
 
 Estructura del proyecto
-├── datos/                  # Archivos CSV o Excel con los datos de ventas
+├── datos/                  # Archivos CSV  con los datos de ventas
 ├── visualizaciones/        # Capturas o ejemplos de gráficos generados
 ├── analisis_tiendas.ipynb  # Notebook principal del proyecto
 └── README.md               # Este archivo
